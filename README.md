@@ -1,0 +1,2 @@
+# SynAskyBlock
+配置AskyBlock空岛插件在Bungeecord的负载均衡
